@@ -5,4 +5,4 @@ print("peter lives")
 print("peter dies")
 print("my name is vamsi krishna ")
 for i in range(5):
-    print("This is my issue fix")
+    print(i)
